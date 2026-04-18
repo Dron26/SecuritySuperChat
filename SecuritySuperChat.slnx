@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="src/CoreLib/CoreLib.csproj" Id="ece9bcdd-080d-4cf2-ab3f-1a6796539f3a" />
+</Solution>
