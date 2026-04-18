@@ -1,3 +1,9 @@
 <Solution>
-  <Project Path="src/CoreLib/CoreLib.csproj" Id="ece9bcdd-080d-4cf2-ab3f-1a6796539f3a" />
+  <Folder Name="/CoreLib/">
+    <Project Path="src/CoreLib/Core.csproj" Id="ece9bcdd-080d-4cf2-ab3f-1a6796539f3a" />
+  </Folder>
+  <Folder Name="/DataModels/">
+    <Project Path="DbApi/DbApi.csproj" Id="f2249a28-ceb2-4744-b950-98c12e907e0c" />
+    <Project Path="DbModels/DbModels.csproj" Id="ac0b85ab-f29b-4196-a6e5-dd53e8419c30" />
+  </Folder>
 </Solution>
